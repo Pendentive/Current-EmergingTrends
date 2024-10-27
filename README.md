@@ -1,6 +1,6 @@
 # Current-EmergingTrends
 
-##Project summary and given code
+## Project summary and given code
 The objective of the pirate puzzle was to design and implement an agent using a Deep Q-learning Neural Network (DQN) , the pirate, which could find an optimal path to the treasure. The pirate must avoid the walls and occupied spaces, and minimize the number of steps taken in route to the treasure. 
 
 Given Code:
